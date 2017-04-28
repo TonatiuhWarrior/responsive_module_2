@@ -14,7 +14,7 @@ p {
   padding: 10px;
   padding-top: 45px;
   font-family: Helvetica;
-  color: black;
+  color: white;
 }
 
 div {
@@ -34,6 +34,7 @@ div {
   text-align: center;
   font-size: 110%;
   font-weight: bold;
+  color: black;
 }
 
 /* Title background colors */
